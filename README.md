@@ -5,4 +5,6 @@
 
 **[Project 3- EDA: The higher the price of the car the higher the depreciation](https://github.com/11leven/portfolio/tree/gh-pages/Project%203)**.
 
+**[Project 4- Predictive Analytics: Predicting Solar Radiation](https://github.com/11leven/portfolio/tree/gh-pages/Project%204)**.
+
 
