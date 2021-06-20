@@ -11,9 +11,9 @@
 
 **[Project 6- Intro to DS: The Rise of Data Science, It’s Impact on Privacy & Ethics](https://github.com/11leven/portfolio/tree/gh-pages/Project%206)**.
 
-**[Project 7- Applied Data Science: Student Performance in Exams](https://github.com/11leven/portfolio/tree/gh-pages/DSC%20680)**.
+**[Project 7- Big Data: Deep Learning and Data Engg task] (Place Holder)**.
 
-**[Project 8- Place Holder]**
+**[Project 8- Applied Data Science: Student Performance in Exams](https://github.com/11leven/portfolio/tree/gh-pages/DSC%20680)**.
 
 **[Project 9- Place Holder]**
 
