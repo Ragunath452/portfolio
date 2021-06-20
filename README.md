@@ -11,7 +11,7 @@
 
 **[Project 6- Data Mining: Used Vehicle Price Prediction](https://github.com/11leven/portfolio/tree/gh-pages/Project%201)**.
 
-**[Project 7- Stats for DS: Identify the students that would complete the courses in 100% of allocated time] (https://github.com/11leven/portfolio/tree/gh-pages/Project%207)**.
+**[Project 7- Stats for DS: Identify the students that would complete the courses in 100% of allocated time](https://github.com/11leven/portfolio/tree/gh-pages/Project%207)**.
 
 **[Project 8- Applied Data Science: Student Performance in Exams](https://github.com/11leven/portfolio/tree/gh-pages/DSC%20680)**.
 
