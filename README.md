@@ -1,4 +1,4 @@
-# Rama Danda Portfolio
+# Ragunath Portfolio
 **[Project 1- Intro to DS: The Rise of Data Science, It’s Impact on Privacy & Ethics](https://github.com/11leven/portfolio/tree/gh-pages/Project%206)**.
 
 **[Project 2- Stats for DS: Identify the students that would complete the courses in 100% of allocated time](https://github.com/11leven/portfolio/tree/gh-pages/Project%207)**.
